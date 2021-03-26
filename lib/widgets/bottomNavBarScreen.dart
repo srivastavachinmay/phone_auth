@@ -1,7 +1,7 @@
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:phone_auth/screens/SettingsScreen.dart';
-import 'package:phone_auth/screens/homeScreen.dart';
+import 'file:///D:/Flutter_projects/flutter_phone_authentication-main/lib/homeScreen.dart';
 import '../screens/loginScreen.dart';
 
 class BottomNavBarScreen extends StatefulWidget {
